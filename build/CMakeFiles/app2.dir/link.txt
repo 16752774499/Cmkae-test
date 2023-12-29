@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/app2.dir/src/main.cpp.o  -o ../bin/app2   -L/home/CmakeDir1/lib  -Wl,-rpath,/home/CmakeDir1/lib -lpthread -lcalc 
